@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas B S</h1>
-<h3 align="center">Hi there! I'm a Cybersecurity enthusiast currently diving deeper into the world of cyber defense and ethical hacking. Alongside this, I'm also a Game Developer working on an exciting project, blending creativity with code. With hands-on experience as a Frontend Developer, I’ve already built several visually appealing and user-friendly web interfaces. Always curious and constantly learning — let's build something awesome!</h3>
+<h3 align="center">Cybersecurity enthusiast exploring cyber defense and ethical hacking. Also a Game Developer working on a creative 3D project. With experience as a Frontend Developer, I build clean, user-friendly web interfaces. Always curious, always learning — let’s build something awesome!</h3>
 
 - 🔭 I’m currently working on **3D Survival Game, focused on immersive environments, resource management, and dynamic AI — blending strategy, exploration, and real-time decision-making to challenge players in a richly detailed world.**
 
