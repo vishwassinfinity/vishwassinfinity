@@ -62,23 +62,12 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwassinfinity/dummy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwassinfinity/dummy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishwassinfinity/dummy/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwassinfinity/vishwassinfinity/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwassinfinity/vishwassinfinity/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishwassinfinity/vishwassinfinity/output/pacman-contribution-graph.svg">
 </picture>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 06 January 2026 - To: 07 January 2026
-
-Total Time: 1 hr 18 mins
-
-Markdown   55 mins         ██████████████████░░░░░░░   71.35 %
-YAML       19 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-```
-
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
