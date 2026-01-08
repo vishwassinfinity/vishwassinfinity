@@ -68,6 +68,17 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 January 2026 - To: 07 January 2026
+
+Total Time: 1 hr 18 mins
+
+Markdown   55 mins         ██████████████████░░░░░░░   71.35 %
+YAML       19 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
+JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
