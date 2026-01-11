@@ -70,15 +70,15 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 08 January 2026
+From: 06 January 2026 - To: 09 January 2026
 
-Total Time: 2 hrs 52 mins
+Total Time: 3 hrs 38 mins
 
-Markdown   2 hrs 6 mins    ██████████████████▒░░░░░░   72.97 %
-YAML       38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-JSON       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-HTML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown   2 hrs 34 mins   ████████████████▓░░░░░░░░   66.87 %
+YAML       44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+Other      12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JSON       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Python     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
