@@ -84,6 +84,15 @@ Python     7 mins          ▓░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
+
+```text
+From: 06 January 2026 - To: 12 January 2026
+
+Markdown   2 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.19 %
+YAML       44 mins         ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.74 %
+Other      28 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.66 %
+```
+
 <!--END_SECTION:waka-simple-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
