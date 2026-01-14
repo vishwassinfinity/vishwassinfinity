@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130.12%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 > 📦 227.1 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -101,21 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 33 mins       ████████████████░░░░░░░░░   62.12 % 
-YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Markdown                 3 hrs 8 mins        ██████████████░░░░░░░░░░░   56.58 % 
+YAML                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🐱‍💻 Projects: 
-dummy                    3 hrs 5 mins        ███████████████████░░░░░░   74.76 % 
-vishwassinfinity         43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-datascraper              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-myjournal                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+dummy                    3 hrs 5 mins        ██████████████░░░░░░░░░░░   55.52 % 
+vishwassinfinity         1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
+SmartText                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+datascraper              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+myjournal                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 13/01/2026 13:52:15 UTC
+ Last Updated on 14/01/2026 01:14:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
