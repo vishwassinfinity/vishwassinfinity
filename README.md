@@ -101,8 +101,8 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████████░░░░░░░░   69.38 % 
-Other                    12 mins             ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Python                   27 mins             █████████████████░░░░░░░░   69.58 % 
+Other                    12 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
@@ -110,7 +110,7 @@ Coding                   40 mins             ███████████�
 ```
 
 
- Last Updated on 05/02/2026 01:22:49 UTC
+ Last Updated on 06/02/2026 01:23:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
