@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,16 +101,18 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████████░░░░░░░░   69.58 % 
-Other                    12 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   50 mins             ████████████████░░░░░░░░░   65.06 % 
+Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-Coding                   40 mins             █████████████████████████   100.00 % 
+Coding                   45 mins             ███████████████░░░░░░░░░░   58.23 % 
+FortifAI-V2              32 mins             ██████████░░░░░░░░░░░░░░░   41.77 % 
 ```
 
 
- Last Updated on 06/02/2026 01:23:20 UTC
+ Last Updated on 07/02/2026 01:21:49 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
