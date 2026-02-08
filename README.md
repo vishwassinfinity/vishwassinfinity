@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,18 +101,21 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   50 mins             ████████████████░░░░░░░░░   65.06 % 
-Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Python                   1 hr 24 mins        ███████████████░░░░░░░░░░   61.50 % 
+Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🐱‍💻 Projects: 
-Coding                   45 mins             ███████████████░░░░░░░░░░   58.23 % 
-FortifAI-V2              32 mins             ██████████░░░░░░░░░░░░░░░   41.77 % 
+FortifAI-V2              1 hr 9 mins         █████████████░░░░░░░░░░░░   50.37 % 
+Coding                   45 mins             ████████░░░░░░░░░░░░░░░░░   32.79 % 
+FortifAI                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+SubVeil                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 
 
- Last Updated on 07/02/2026 01:21:49 UTC
+ Last Updated on 08/02/2026 01:58:43 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
