@@ -1,8 +1,8 @@
 name: generate pacman game
 
 on:
-  schedule: # run automatically every 24 hours
-    - cron: "0 * * * *"
+  schedule: # run every sunday
+    - cron: "0 0 * * 0"
   workflow_dispatch: # allows to manually run the job at any time
   push: # run on every push on the master branch
     branches:
