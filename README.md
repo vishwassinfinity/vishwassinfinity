@@ -69,29 +69,29 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.10%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.92%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 227.7 kB Used in GitHub's Storage 
+> 📦 227.8 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2026
+> 🏆 46 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-🌆 Daytime                37 commits          ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-🌃 Evening                78 commits          █████████████░░░░░░░░░░░░   50.32 % 
-🌙 Night                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+🌆 Daytime                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+🌃 Evening                78 commits          ████████████░░░░░░░░░░░░░   47.27 % 
+🌙 Night                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 
 
@@ -101,19 +101,21 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       ██████████████████░░░░░░░   70.07 % 
-Text                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Python                   2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+SQL                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🐱‍💻 Projects: 
-FortifAI                 2 hrs 29 mins       █████████████████░░░░░░░░   69.02 % 
-SentinalX                1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Equipment Management Syst3 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.66 % 
+FortifAI                 2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
+SentinalX                1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
- Last Updated on 28/02/2026 01:17:05 UTC
+ Last Updated on 01/03/2026 01:44:43 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
