@@ -101,21 +101,20 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Python                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Java                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+SQL                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Python                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Java                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 🐱‍💻 Projects: 
-Equipment Management Syst3 hrs 25 mins       ██████████████████░░░░░░░   71.83 % 
-SentinalX                1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-FortifAI                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Equipment Management Syst3 hrs 25 mins       ██████████████████░░░░░░░   72.53 % 
+SentinalX                1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 
- Last Updated on 03/03/2026 01:27:23 UTC
+ Last Updated on 04/03/2026 01:22:47 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
