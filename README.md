@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.92%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,20 +101,20 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Python                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Java                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+SQL                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Markdown                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+TypeScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Java                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🐱‍💻 Projects: 
-Equipment Management Syst3 hrs 25 mins       ██████████████████░░░░░░░   72.53 % 
-SentinalX                1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Equipment Management Syst3 hrs 25 mins       ██████████████████████░░░   86.15 % 
+SentinalX                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
- Last Updated on 04/03/2026 01:22:47 UTC
+ Last Updated on 05/03/2026 01:25:08 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
