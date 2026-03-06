@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.92%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,11 +77,11 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 > 📦 227.8 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2026
+> 🏆 47 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
@@ -101,20 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Markdown                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-TypeScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Java                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Java                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+SQL                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
 🐱‍💻 Projects: 
-Equipment Management Syst3 hrs 25 mins       ██████████████████████░░░   86.15 % 
-SentinalX                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Equipment Management Syst3 hrs 25 mins       ██████████████████░░░░░░░   71.41 % 
+Test                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+SentinalX                30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
- Last Updated on 05/03/2026 01:25:08 UTC
+ Last Updated on 06/03/2026 01:27:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
