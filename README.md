@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.92%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-TypeScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-SQL                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Java                     41 mins             ███████████░░░░░░░░░░░░░░   45.25 % 
+Other                    29 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+TypeScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-Equipment Management Syst3 hrs 25 mins       █████████████████░░░░░░░░   66.79 % 
-Test                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-SentinalX                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Rocket.Chat              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-myjournal                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Test                     39 mins             ███████████░░░░░░░░░░░░░░   42.67 % 
+SentinalX                30 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Rocket.Chat              19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+ShipBomb                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 
- Last Updated on 07/03/2026 01:19:41 UTC
+ Last Updated on 08/03/2026 01:26:19 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
