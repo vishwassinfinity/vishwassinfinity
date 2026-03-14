@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               59 mins             █████████████████░░░░░░░░   68.47 % 
-Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               40 mins             ███████████████░░░░░░░░░░   58.84 % 
+Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-Rocket.Chat              20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-notifier                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-hello-world              18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-SentinalX                16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-myjournal                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+notifier                 19 mins             ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+hello-world              18 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+SentinalX                16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+myjournal                12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Rocket.Chat              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
- Last Updated on 13/03/2026 01:24:53 UTC
+ Last Updated on 14/03/2026 01:22:37 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
