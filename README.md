@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.92%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               40 mins             ███████████████░░░░░░░░░░   58.84 % 
-Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               40 mins             ███████████░░░░░░░░░░░░░░   45.01 % 
+Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-notifier                 19 mins             ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-hello-world              18 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-SentinalX                16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-myjournal                12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Rocket.Chat              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+notifier                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+FortifAI                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+hello-world              18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+SentinalX                16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+myjournal                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 ```
 
 
- Last Updated on 14/03/2026 01:22:37 UTC
+ Last Updated on 15/03/2026 01:47:40 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
