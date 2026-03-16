@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.92%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,11 +77,11 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 > 📦 227.8 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2026
+> 🏆 47 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
@@ -101,22 +101,20 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               40 mins             ███████████░░░░░░░░░░░░░░   45.01 % 
-Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown                 11 mins             █████████████░░░░░░░░░░░░   51.42 % 
+Python                   7 mins              █████████░░░░░░░░░░░░░░░░   35.62 % 
+HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-notifier                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-FortifAI                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-hello-world              18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-SentinalX                16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-myjournal                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+FortifAI                 18 mins             ██████████████████████░░░   86.54 % 
+SubVeil                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+myjournal                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 15/03/2026 01:47:40 UTC
+ Last Updated on 16/03/2026 01:49:42 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
