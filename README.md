@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 > 📦 227.8 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2026
+> 🏆 52 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-🌆 Daytime                44 commits          ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌃 Evening                78 commits          ████████████░░░░░░░░░░░░░   46.71 % 
-🌙 Night                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+🌆 Daytime                45 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                75 commits          ███████████░░░░░░░░░░░░░░   45.45 % 
+🌙 Night                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   32.65 % 
-HTML                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Text                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-CSS                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+C++                      1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+JavaScript               1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+HTML                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 🐱‍💻 Projects: 
-Rocket Simulator         2 hrs 31 mins       █████████████████░░░░░░░░   69.41 % 
-Practice                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-FortifAI                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-AR Rocket Builder        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-SubVeil                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Rocket Simulator         2 hrs 36 mins       █████████████░░░░░░░░░░░░   52.23 % 
+Practice                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.30 % 
+FortifAI                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+AR Rocket Builder        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+SubVeil                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 
- Last Updated on 18/03/2026 01:29:52 UTC
+ Last Updated on 19/03/2026 01:30:28 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
