@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-JavaScript               1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-HTML                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Python                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+C++                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-Rocket Simulator         2 hrs 36 mins       █████████████░░░░░░░░░░░░   52.23 % 
-Practice                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.30 % 
-FortifAI                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-AR Rocket Builder        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-SubVeil                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Rocket Simulator         2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.52 % 
+Practice                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+hnn-core                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+FortifAI                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+SubVeil                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 
 
- Last Updated on 19/03/2026 01:30:28 UTC
+ Last Updated on 20/03/2026 01:25:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
