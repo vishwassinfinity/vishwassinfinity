@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -81,9 +81,9 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 34 Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 26 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-C++                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Python                   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+C++                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 
 🐱‍💻 Projects: 
-Rocket Simulator         2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.52 % 
-Practice                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-hnn-core                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-FortifAI                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-SubVeil                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Rocket Simulator         2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.08 % 
+Practice                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+hnn-core                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+FortifAI                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+SubVeil                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 
 
- Last Updated on 20/03/2026 01:25:34 UTC
+ Last Updated on 21/03/2026 01:21:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
