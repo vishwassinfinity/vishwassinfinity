@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-C++                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Python                   1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+C++                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🐱‍💻 Projects: 
-Rocket Simulator         2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.08 % 
-Practice                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-hnn-core                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-FortifAI                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-SubVeil                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Rocket Simulator         2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
+Practice                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+hnn-core                 1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+FortifAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+VoiceAgent_Assignment    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 
- Last Updated on 21/03/2026 01:21:14 UTC
+ Last Updated on 22/03/2026 01:30:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
