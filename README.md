@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-C++                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Python                   1 hr 39 mins        ███████████░░░░░░░░░░░░░░   43.07 % 
+C++                      1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   37.54 % 
+Text                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🐱‍💻 Projects: 
-Rocket Simulator         2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
-Practice                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-hnn-core                 1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-FortifAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-VoiceAgent_Assignment    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Practice                 1 hr 58 mins        █████████████░░░░░░░░░░░░   51.42 % 
+hnn-core                 1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   34.12 % 
+FortifAI                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+VoiceAgent_Assignment    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+SubVeil                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 
 
- Last Updated on 23/03/2026 01:30:03 UTC
+ Last Updated on 24/03/2026 01:24:18 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
