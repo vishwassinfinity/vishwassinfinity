@@ -101,22 +101,20 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        ████████████████░░░░░░░░░   64.82 % 
-Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Bash                     31 mins             █████████░░░░░░░░░░░░░░░░   35.31 % 
+Python                   30 mins             █████████░░░░░░░░░░░░░░░░   34.28 % 
+Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-hnn-core                 1 hr 18 mins        ████████████░░░░░░░░░░░░░   47.05 % 
-VoiceAgent               59 mins             █████████░░░░░░░░░░░░░░░░   35.95 % 
-FortifAI                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-VoiceAgent_Assignment    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-SubVeil                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+VoiceAgent               59 mins             █████████████████░░░░░░░░   67.16 % 
+hnn-core                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+VoiceAgent_Assignment    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
 
 
- Last Updated on 26/03/2026 01:47:48 UTC
+ Last Updated on 27/03/2026 01:48:05 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
