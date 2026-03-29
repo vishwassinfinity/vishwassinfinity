@@ -101,20 +101,18 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     31 mins             ██████████░░░░░░░░░░░░░░░   41.61 % 
-Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Bash                     31 mins             █████████████░░░░░░░░░░░░   52.41 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🐱‍💻 Projects: 
-VoiceAgent               59 mins             ████████████████████░░░░░   79.15 % 
-VoiceAgent_Assignment    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-hnn-core                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+VoiceAgent               59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 01:27:33 UTC
+ Last Updated on 29/03/2026 01:50:11 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
