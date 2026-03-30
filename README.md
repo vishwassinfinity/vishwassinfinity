@@ -69,29 +69,29 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181.03%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 227.4 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 26 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-🌆 Daytime                45 commits          ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-🌃 Evening                76 commits          ███████████░░░░░░░░░░░░░░   45.78 % 
-🌙 Night                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+🌃 Evening                78 commits          ███████████░░░░░░░░░░░░░░   45.09 % 
+🌙 Night                  24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
@@ -101,18 +101,20 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     31 mins             █████████████░░░░░░░░░░░░   52.41 % 
-Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Markdown                 41 mins             ██████████░░░░░░░░░░░░░░░   41.90 % 
+Bash                     31 mins             ████████░░░░░░░░░░░░░░░░░   31.68 % 
+C++                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🐱‍💻 Projects: 
-VoiceAgent               59 mins             █████████████████████████   100.00 % 
+VoiceAgent               59 mins             ███████████████░░░░░░░░░░   60.45 % 
+Synthx                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Practice                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 ```
 
 
- Last Updated on 29/03/2026 01:50:11 UTC
+ Last Updated on 30/03/2026 01:52:33 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
