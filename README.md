@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192.43%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 4 mins        ███████████████░░░░░░░░░░   58.80 % 
-Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JavaScript               4 hrs               ██████████░░░░░░░░░░░░░░░   38.51 % 
+C++                      2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+TypeScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-Equipment-Management-Syst2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
-Synthx                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-Practice                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Mnemosyne                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-hnn-core                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+myjournal                4 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.79 % 
+Equipment-Management-Syst2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Mnemosyne                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Synthx                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Practice                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 ```
 
 
- Last Updated on 05/04/2026 01:52:07 UTC
+ Last Updated on 06/04/2026 01:52:56 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
