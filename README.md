@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-197.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               6 hrs 30 mins       ██████████████░░░░░░░░░░░   54.63 % 
-TypeScript               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-HTML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JavaScript               6 hrs 30 mins       ██████████████░░░░░░░░░░░   54.19 % 
+TypeScript               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+HTML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🐱‍💻 Projects: 
-myjournal                4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
-Assignment               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Practice                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Planora                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Mnemosyne                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+myjournal                4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
+Assignment               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Practice                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Planora                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Mnemosyne                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 ```
 
 
- Last Updated on 11/04/2026 01:45:13 UTC
+ Last Updated on 12/04/2026 01:56:29 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
