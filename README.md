@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-197.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 > 📦 227.5 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2026
+> 🏆 60 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌃 Evening                78 commits          ███████████░░░░░░░░░░░░░░   44.57 % 
-🌙 Night                  24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+🌞 Morning                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                48 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                79 commits          ███████████░░░░░░░░░░░░░░   44.89 % 
+🌙 Night                  24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               6 hrs 30 mins       ██████████████░░░░░░░░░░░   54.19 % 
-TypeScript               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-HTML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+JavaScript               2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+CSS                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+C++                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🐱‍💻 Projects: 
-myjournal                4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
-Assignment               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Practice                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Planora                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Mnemosyne                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Mnemosyne                1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Assignment               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Practice                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Planora                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+taskmanagement           47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 ```
 
 
- Last Updated on 12/04/2026 01:56:29 UTC
+ Last Updated on 13/04/2026 02:01:44 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
