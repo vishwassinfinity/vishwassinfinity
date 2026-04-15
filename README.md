@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
-JavaScript               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-CSS                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                   2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+HTML                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🐱‍💻 Projects: 
-Mnemosyne                3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
-Assignment               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Planora                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-taskmanagement           47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Practice                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Mnemosyne                3 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.14 % 
+Assignment               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Planora                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Practice                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+wall-calendar            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 
 
- Last Updated on 14/04/2026 01:55:53 UTC
+ Last Updated on 15/04/2026 01:52:46 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
