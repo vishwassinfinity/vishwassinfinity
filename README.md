@@ -69,13 +69,13 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 305.9 kB Used in GitHub's Storage 
+> 📦 306.0 kB Used in GitHub's Storage 
  > 
 > 🏆 80 Contributions in the Year 2026
  > 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-HTML                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Python                   2 hrs 56 mins       █████████████░░░░░░░░░░░░   52.17 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+C++                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🐱‍💻 Projects: 
-Mnemosyne                3 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.14 % 
-Assignment               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Planora                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Practice                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-wall-calendar            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Mnemosyne                3 hrs 49 mins       █████████████████░░░░░░░░   67.91 % 
+Practice                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Planora                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+wall-calendar            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+src                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 
- Last Updated on 15/04/2026 01:52:46 UTC
+ Last Updated on 16/04/2026 02:00:42 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
