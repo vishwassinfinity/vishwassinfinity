@@ -75,7 +75,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 **🐱 My GitHub Data** 
 
-> 📦 306.0 kB Used in GitHub's Storage 
+> 📦 305.9 kB Used in GitHub's Storage 
  > 
 > 🏆 80 Contributions in the Year 2026
  > 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 56 mins       █████████████░░░░░░░░░░░░   52.17 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-C++                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Python                   2 hrs 56 mins       ████████████████░░░░░░░░░   63.65 % 
+Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+C++                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🐱‍💻 Projects: 
-Mnemosyne                3 hrs 49 mins       █████████████████░░░░░░░░   67.91 % 
-Practice                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Planora                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-wall-calendar            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-src                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Mnemosyne                3 hrs 49 mins       █████████████████████░░░░   82.85 % 
+Practice                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+portfolio                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Syllabus                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+SubVeil                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 16/04/2026 02:00:42 UTC
+ Last Updated on 17/04/2026 01:56:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
