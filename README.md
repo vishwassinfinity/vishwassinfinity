@@ -75,7 +75,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 **🐱 My GitHub Data** 
 
-> 📦 305.9 kB Used in GitHub's Storage 
+> 📦 306.0 kB Used in GitHub's Storage 
  > 
 > 🏆 80 Contributions in the Year 2026
  > 
@@ -85,38 +85,8 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-🌃 Evening                89 commits          ███████████░░░░░░░░░░░░░░   45.64 % 
-🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 56 mins       ████████████████░░░░░░░░░   63.65 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-C++                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-
-🐱‍💻 Projects: 
-Mnemosyne                3 hrs 49 mins       █████████████████████░░░░   82.85 % 
-Practice                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-portfolio                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Syllabus                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-SubVeil                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
- Last Updated on 17/04/2026 01:56:34 UTC
+ Last Updated on 18/04/2026 01:48:10 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
