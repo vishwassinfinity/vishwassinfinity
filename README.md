@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.30%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -85,8 +85,38 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 18/04/2026 01:48:10 UTC
+```text
+🌞 Morning                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+🌆 Daytime                50 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+🌃 Evening                89 commits          ███████████░░░░░░░░░░░░░░   45.64 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   2 hrs 31 mins       ██████████████░░░░░░░░░░░   57.37 % 
+Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+
+🐱‍💻 Projects: 
+Mnemosyne                3 hrs 24 mins       ███████████████████░░░░░░   77.54 % 
+ferrite                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+portfolio                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Syllabus                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Practice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
+
+ Last Updated on 19/04/2026 02:00:37 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
