@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.30%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,22 +101,20 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       ██████████████░░░░░░░░░░░   57.37 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Python                   2 hrs 17 mins       ███████████████░░░░░░░░░░   60.33 % 
+HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🐱‍💻 Projects: 
-Mnemosyne                3 hrs 24 mins       ███████████████████░░░░░░   77.54 % 
-ferrite                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-portfolio                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Syllabus                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Practice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Mnemosyne                1 hr 55 mins        █████████████░░░░░░░░░░░░   50.86 % 
+ferrite                  1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.10 % 
+Practice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 19/04/2026 02:00:37 UTC
+ Last Updated on 20/04/2026 02:02:05 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
