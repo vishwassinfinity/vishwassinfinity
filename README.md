@@ -101,20 +101,19 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ███████████████░░░░░░░░░░   60.33 % 
-HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Python                   1 hr 13 mins        ██████████████░░░░░░░░░░░   56.65 % 
+HTML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🐱‍💻 Projects: 
-Mnemosyne                1 hr 55 mins        █████████████░░░░░░░░░░░░   50.86 % 
-ferrite                  1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.10 % 
-Practice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+ferrite                  1 hr 51 mins        ██████████████████████░░░   86.46 % 
+Mnemosyne                17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
 
- Last Updated on 20/04/2026 02:02:05 UTC
+ Last Updated on 21/04/2026 01:57:18 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
