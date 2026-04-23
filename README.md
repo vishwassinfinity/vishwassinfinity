@@ -101,19 +101,18 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ██████████████░░░░░░░░░░░   56.65 % 
-HTML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python                   55 mins             ████████████░░░░░░░░░░░░░   49.86 % 
+HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🐱‍💻 Projects: 
-ferrite                  1 hr 51 mins        ██████████████████████░░░   86.46 % 
-Mnemosyne                17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+ferrite                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 01:55:50 UTC
+ Last Updated on 23/04/2026 02:00:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
