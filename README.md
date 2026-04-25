@@ -70,8 +70,50 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2034%20mins-blue?style=flat)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203.53%20thousand%20lines%20of%20code-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142.21%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 269.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+🌆 Daytime                40 commits          ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+🌃 Evening                66 commits          ███████████░░░░░░░░░░░░░░   43.71 % 
+🌙 Night                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   59 mins             ████████████░░░░░░░░░░░░░   49.61 % 
+HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+
+🐱‍💻 Projects: 
+ferrite                  1 hr 51 mins        ███████████████████████░░   93.58 % 
+videosearchengine        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+```
+
+
+ Last Updated on 25/04/2026 19:49:41 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
