@@ -69,13 +69,13 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.39%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 273.9 kB Used in GitHub's Storage 
+> 📦 274.0 kB Used in GitHub's Storage 
  > 
 > 🏆 92 Contributions in the Year 2026
  > 
@@ -101,22 +101,22 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
-C                        2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-JavaScript               2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-C++                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Python                   2 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+C                        1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+JavaScript               1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+C++                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Dart                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-Checkora                 5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-FortifAI                 3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-CodeBeacon               3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Kanshi                   2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Mnemosyne                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Mnemosyne                2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.05 % 
+CodeBeacon               1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+FortifAI                 1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Kanshi                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+time                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 ```
 
 
- Last Updated on 06/06/2026 02:29:03 UTC
+ Last Updated on 13/06/2026 02:40:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
