@@ -69,8 +69,6 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2011%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159.56%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -85,30 +83,8 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-🌆 Daytime                39 commits          ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-🌃 Evening                68 commits          ███████████░░░░░░░░░░░░░░   43.04 % 
-🌙 Night                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Rust                     0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-netlas                   0 secs              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/07/2026 01:46:55 UTC
+ Last Updated on 25/07/2026 01:56:29 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
