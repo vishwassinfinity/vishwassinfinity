@@ -69,7 +69,7 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2025%20mins-blue?style=flat)
 
@@ -103,11 +103,10 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        4 mins              █████████████████████████   98.80 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+C                        9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Kanshi                   4 mins              █████████████████████████   100.00 % 
+Kanshi                   9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +116,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2026 00:45:45 UTC
+ Last Updated on 29/08/2026 04:58:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
