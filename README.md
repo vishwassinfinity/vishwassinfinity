@@ -69,9 +69,9 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.45%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -103,20 +103,39 @@ I’m driven by curiosity and love experimenting with modern tech stacks to turn
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 mins             █████████████████████████   100.00 % 
+Python                   9 mins              ███████████░░░░░░░░░░░░░░   44.77 % 
+TypeScript               7 mins              █████████░░░░░░░░░░░░░░░░   37.65 % 
+JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-Strata_Full_Application  14 mins             █████████████████████████   100.00 % 
+Todoist                  11 mins             ██████████████░░░░░░░░░░░   55.23 % 
+Strata_Full_Application  9 mins              ███████████░░░░░░░░░░░░░░   44.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 11 mins (55.23%)
+
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 03:36:54 UTC
+ Last Updated on 17/10/2026 02:21:44 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwassinfinity.vishwassinfinity&"  />
